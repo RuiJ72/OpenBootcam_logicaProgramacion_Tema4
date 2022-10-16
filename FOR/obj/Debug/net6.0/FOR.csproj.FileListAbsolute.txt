@@ -1,0 +1,15 @@
+C:\OpenBootcamp - Introdução à Programação\Ejercicio3_Condicionales\FOR\bin\Debug\net6.0\FOR.exe
+C:\OpenBootcamp - Introdução à Programação\Ejercicio3_Condicionales\FOR\bin\Debug\net6.0\FOR.deps.json
+C:\OpenBootcamp - Introdução à Programação\Ejercicio3_Condicionales\FOR\bin\Debug\net6.0\FOR.runtimeconfig.json
+C:\OpenBootcamp - Introdução à Programação\Ejercicio3_Condicionales\FOR\bin\Debug\net6.0\FOR.dll
+C:\OpenBootcamp - Introdução à Programação\Ejercicio3_Condicionales\FOR\bin\Debug\net6.0\FOR.pdb
+C:\OpenBootcamp - Introdução à Programação\Ejercicio3_Condicionales\FOR\obj\Debug\net6.0\FOR.csproj.AssemblyReference.cache
+C:\OpenBootcamp - Introdução à Programação\Ejercicio3_Condicionales\FOR\obj\Debug\net6.0\FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\OpenBootcamp - Introdução à Programação\Ejercicio3_Condicionales\FOR\obj\Debug\net6.0\FOR.AssemblyInfoInputs.cache
+C:\OpenBootcamp - Introdução à Programação\Ejercicio3_Condicionales\FOR\obj\Debug\net6.0\FOR.AssemblyInfo.cs
+C:\OpenBootcamp - Introdução à Programação\Ejercicio3_Condicionales\FOR\obj\Debug\net6.0\FOR.csproj.CoreCompileInputs.cache
+C:\OpenBootcamp - Introdução à Programação\Ejercicio3_Condicionales\FOR\obj\Debug\net6.0\FOR.dll
+C:\OpenBootcamp - Introdução à Programação\Ejercicio3_Condicionales\FOR\obj\Debug\net6.0\refint\FOR.dll
+C:\OpenBootcamp - Introdução à Programação\Ejercicio3_Condicionales\FOR\obj\Debug\net6.0\FOR.pdb
+C:\OpenBootcamp - Introdução à Programação\Ejercicio3_Condicionales\FOR\obj\Debug\net6.0\FOR.genruntimeconfig.cache
+C:\OpenBootcamp - Introdução à Programação\Ejercicio3_Condicionales\FOR\obj\Debug\net6.0\ref\FOR.dll
